@@ -45,18 +45,6 @@ Model optimization
 
 Interpretability
 
-4️. **Telecom Customer Churn (Logistic Regression)**
-
-Predicts customer churn probability
-
-Includes:
-
-Categorical encoding
-
-Logistic regression modeling
-
-Confusion matrix & ROC analysis
-
 Tools & Technologies
 ====================
 Python
@@ -74,8 +62,6 @@ Modeling Techniques Used
 Simple Linear Regression
 
 Multiple Linear Regression
-
-Logistic Regression
 
 Recursive Feature Elimination (RFE)
 
